@@ -12,7 +12,7 @@
 	],
 	"workspaceFolder": "/workspace",
 	"features": {
-		"ghcr.io/devcontainers/features/nvidia-cuda:1": {}
+		"ghcr.io/devcontainers/features/nvidia-cuda:2": {}
 	},
 	"customizations": {
 		"vscode": {

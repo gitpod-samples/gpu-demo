@@ -1,4 +1,4 @@
-FROM mcr.microsoft.com/vscode/devcontainers/base:ubuntu
+FROM mcr.microsoft.com/vscode/devcontainers/base:ubuntu-22.04
 
 # Install Ollama
 RUN curl -fsSL https://ollama.com/install.sh | TERM=xterm sh
